@@ -23,7 +23,8 @@ Using this (https://www.sphinx-doc.org/en/master/development/tutorials/todo.html
 - Take a look at *source/_ext/checkbox.py*
     
 - Use **checkboxes** in your rst file :
-    <... your docu ...>
+      
+      <... your docu ...>
     
       .. checkbox:: Item 1 : should be checked
           :checked: yes
@@ -31,4 +32,4 @@ Using this (https://www.sphinx-doc.org/en/master/development/tutorials/todo.html
           :checked: no
       .. checkbox:: Item 3 : should be unchecked by default
 
-    <... your docu continues ...>
+      <... your docu continues ...>
