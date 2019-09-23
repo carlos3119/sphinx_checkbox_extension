@@ -1,4 +1,4 @@
-# sphinx_checkbox_extension
+# sphinx_checkbox_extension v0.0.2
 A simple extension that allows to use Checkboxes in Sphinx Doc
 
 Using this (https://www.sphinx-doc.org/en/master/development/tutorials/todo.html) tutorial as starting point, I created an Extension for Sphinx that allows us to use HMTL checkboxes for the HTML documentation generation. 
@@ -33,3 +33,11 @@ Using this (https://www.sphinx-doc.org/en/master/development/tutorials/todo.html
       .. checkbox:: Item 3 : should be unchecked by default
 
       <... your docu continues ...>
+
+- Build your project docu 
+    ``make html``
+    
+    
+    
+
+     
